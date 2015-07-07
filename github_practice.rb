@@ -7,7 +7,7 @@
 # free to change your feelings as well. Finally, save your changes.
 
 #Please change the following variable to one of your favorite songs
-favsong = "Straight From the Harp by Damu the Fudgemunk"
+favsong = "This is me"
 
 #Feel free to change your feelings as well.
 feeling = "enthused"
